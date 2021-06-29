@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikzuit
-A Devops, Cloud Architect, Microservices Architect and Advisor
+A Devops, Cloud Architect, Microservices Architect, writer and Advisor
 
 - 👀 I’m interested in ...
 Helping on growing social sustainable companies, helping people to learn
