@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikzuit
-A Devops, SRE, Platform Engineer, DevSecoOps, Finops, Cloud Architect, Microservices Architect, writer and Advisor
+A Devops, SRE, Platform Engineer, DevSecOps, Finops, Cloud Architect, Microservices Architect, writer and Advisor
 
 - 👀 I’m interested in ...
 Helping on growing social sustainable companies, helping people to learn
